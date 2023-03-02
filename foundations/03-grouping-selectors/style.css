@@ -1,7 +1,7 @@
 .left,
 .right {
     font-size: 28px;
-    font-family: "Helvetica", "Times New Roman",sans-serif;
+    font-family: Helvetica, "Times New Roman",sans-serif;
 }
 
 .left {
@@ -10,6 +10,5 @@
 }
 
 .right {
-    color: rgb(0, 0, 0);;
     background-color:yellow ;
 }
